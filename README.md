@@ -4,37 +4,37 @@ AKER is a comprehensive Flutter-based mobile application designed to facilitate 
 
 ## Features ✨
 
-### 🚨 Emergency Reporting
+###  Emergency Reporting
 - Quick animal emergency reporting with location tracking
 - Photo upload capability for better assessment
 - Real-time status updates on rescue operations
 - Emergency contact integration
 
-### 🗺️ Interactive Map
+### 🗺 Interactive Map
 - View nearby animal rescue organizations
 - Track reported animal cases in your area
 - Find veterinary clinics and animal shelters
 - GPS-based location services
 
-### 🤖 AI-Powered Chatbot
+###  AI-Powered Chatbot
 - Get instant advice on animal care and first aid
 - Emergency response guidance
 - Connect with veterinary professionals
 - 24/7 availability for urgent queries
 
-### 📱 User Management
+###  User Management
 - Secure user authentication
 - Personal profile management
 - Rescue history tracking
 - Volunteer registration system
 
-### 📊 Reports Dashboard
+###  Reports Dashboard
 - View all submitted reports
 - Track rescue progress
 - Access rescue statistics
 - Generate rescue reports
 
-## Technology Stack 🛠️
+## Technology Stack 
 
 - **Frontend**: Flutter (Dart)
 - **Backend**: Supabase
@@ -45,7 +45,7 @@ AKER is a comprehensive Flutter-based mobile application designed to facilitate 
 - **State Management**: Provider/Riverpod
 - **Storage**: Supabase Storage
 
-## Prerequisites 📋
+## Prerequisites
 
 Before running this project, make sure you have:
 
@@ -57,7 +57,7 @@ Before running this project, make sure you have:
 - OpenRouter API key
 - Google Maps API key (for map functionality)
 
-## Installation & Setup 🚀
+## Installation & Setup 
 
 ### 1. Clone the Repository
 ```bash
@@ -122,7 +122,7 @@ lib/
     └── rescue_card.dart
 ```
 
-## Usage 📖
+## Usage 
 
 ### Reporting an Animal Emergency
 1. Open the app and navigate to the "Report" section
@@ -140,7 +140,7 @@ lib/
 2. Use the map view to see nearby rescue activities
 3. Track the status of your reported cases
 
-## Contributing 🤝
+## Contributing 
 
 We welcome contributions to improve AKER! Please follow these steps:
 
@@ -150,24 +150,15 @@ We welcome contributions to improve AKER! Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## License 📄
+## License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Support 💬
+## Support
 
 For support and questions:
 - Create an issue on GitHub
 - Contact the development team
 - Join our community discussions
-
-## Acknowledgments 🙏
-
-- Flutter team for the amazing framework
-- Supabase for backend services
-- OpenRouter for AI capabilities
-- All contributors and animal rescue organizations
-
----
 
 **Made with ❤️ for animal welfare**
