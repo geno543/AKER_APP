@@ -1,13 +1,15 @@
 {
-  "buildCommand": "flutter build web",
-  "outputDirectory": "build/web",
-  "devCommand": "flutter run -d web-server --web-hostname 0.0.0.0 --web-port 3000",
-  "installCommand": "if [ ! -d /opt/flutter ]; then git clone https://github.com/flutter/flutter.git /opt/flutter && export PATH=\"$PATH:/opt/flutter/bin\" && flutter doctor && flutter config --enable-web; fi && export PATH=\"$PATH:/opt/flutter/bin\" && flutter pub get",
-  "framework": null,
-  "rewrites": [
+  "version": 2,
+  "builds": [
     {
-      "source": "/(.*)",
-      "destination": "/index.html"
+      "src": "build/web/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ]
 }
