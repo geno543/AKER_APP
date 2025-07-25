@@ -22,7 +22,7 @@ AKER is a comprehensive Flutter-based mobile application designed to facilitate 
 - Connect with veterinary professionals
 - 24/7 availability for urgent queries
 
-### 📱 User Management
+###  User Management
 - Secure user authentication
 - Personal profile management
 - Rescue history tracking
