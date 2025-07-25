@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" rx="12" fill="#F5F5F5"/>
+  <circle cx="100" cy="80" r="25" fill="#E0E0E0"/>
+  <ellipse cx="90" cy="75" rx="3" ry="4" fill="#757575"/>
+  <ellipse cx="110" cy="75" rx="3" ry="4" fill="#757575"/>
+  <path d="M95 85 Q100 90 105 85" stroke="#757575" stroke-width="2" fill="none"/>
+  <ellipse cx="100" cy="120" rx="35" ry="25" fill="#E0E0E0"/>
+  <ellipse cx="70" cy="110" rx="12" ry="18" fill="#E0E0E0"/>
+  <ellipse cx="130" cy="110" rx="12" ry="18" fill="#E0E0E0"/>
+  <ellipse cx="75" cy="150" rx="8" ry="15" fill="#E0E0E0"/>
+  <ellipse cx="125" cy="150" rx="8" ry="15" fill="#E0E0E0"/>
+  <ellipse cx="85" cy="150" rx="8" ry="15" fill="#E0E0E0"/>
+  <ellipse cx="115" cy="150" rx="8" ry="15" fill="#E0E0E0"/>
+  <text x="100" y="185" text-anchor="middle" fill="#9E9E9E" font-family="Arial, sans-serif" font-size="12">Animal Photo</text>
+</svg>
